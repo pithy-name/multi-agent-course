@@ -8,9 +8,9 @@ loop looks like from scratch and what a framework adds on top.
 
 | Notebook | What it covers | Notes |
 |----------|----------------|-------|
-| `Agent Pro ReAct.ipynb` | A ReAct agent built from scratch — a `Tool` base class, an Ares internet-search tool, and the reason → act → observe loop wired up by hand. | **Start here** for the from-scratch loop. |
 | `AgentPro Starter Code.ipynb` | Quick-start for [**AgentPro**](https://github.com/traversaal-ai/AgentPro), Traversaal.ai's open-source agent framework: clone, install, configure keys, run. | The same ideas, now via a framework. |
-| `Smol Agents Updated.ipynb` | Updated/expanded version of the smolagents notebook. | Prefer this over `Smol Agents.ipynb`. |
+| `Agent Pro ReAct.ipynb` | A ReAct agent built from scratch — a `Tool` base class, an Ares internet-search tool, and the reason → act → observe loop wired up by hand. | **Start here** for the from-scratch loop. |
+| `Smol Agents Updated.ipynb` | Intro to Hugging Face [**smolagents**](https://github.com/huggingface/smolagents) — the `CodeAgent` (acts by writing & running code) and a JSON agent. | A second framework, with a code-execution agent. |
 
 ## Suggested order
 
